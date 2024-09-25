@@ -1,0 +1,21 @@
+# Ignorar o ambiente virtual
+venv/
+.env
+
+# Ignorar arquivos compilados do Python
+__pycache__/
+*.py[cod]
+
+# Ignorar arquivos de logs
+*.log
+
+# Ignorar arquivos de cache ou temporários
+*.tmp
+*.bak
+*.swp
+
+# Ignorar arquivos do VSCode
+.vscode/
+
+utils/__pycache__/navegador.cpython-312.pyc
+utils/__pycache__/ocr.cpython-312.pyc

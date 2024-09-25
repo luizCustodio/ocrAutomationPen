@@ -20,3 +20,4 @@ Este projeto é um script Python que automatiza interações com a interface gr�
   - [Download do ChromeDriver](https://chromedriver.chromium.org/downloads)
 - **Google Chrome**:
   - Necessário para controle do navegador via depuração remota
+  "C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222
